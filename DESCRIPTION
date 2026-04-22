@@ -13,9 +13,6 @@ Imports:
     dplyr,
     tidyr,
     rlang,
-    magrittr,
-    stringr,
-    tibble,
     stats
 Suggests:
     testthat (>= 3.0.0),
